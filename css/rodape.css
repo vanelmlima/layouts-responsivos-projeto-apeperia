@@ -31,6 +31,6 @@
 
 .rodape__link {
     display: inline-block;
-
+    color: var(--branco);
     margin: 0 .5rem .7rem;
 }
